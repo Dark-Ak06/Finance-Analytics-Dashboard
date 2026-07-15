@@ -227,39 +227,6 @@ Format the code with:
 black src tests
 ```
 
----
-
-## Screenshots
-
-*(Add a screenshot of the live `docs/` website, the console dashboard, and
-the generated Excel report here.)*
-
-`charts/` — example generated charts:
-
-- `01_income_line.png` — Monthly income trend
-- `03_expense_category_pie.png` — Expense category breakdown
-- `10_category_month_heatmap.png` — Category × month expense heatmap
-
----
-
-## Uploading this project to GitHub
-
-From inside the `finance_analytics/` folder:
-
-```bash
-git init
-git add .
-git commit -m "Initial commit: Finance Analytics Dashboard"
-git branch -M main
-git remote add origin https://github.com/<your-username>/<your-repo-name>.git
-git push -u origin main
-```
-
-If you don't have a GitHub repository yet, create one first at
-https://github.com/new (leave it empty — no README/license — since this
-project already has its own), then run the commands above.
-
----
 
 ## License
 
